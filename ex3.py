@@ -20,6 +20,7 @@ print "oh, that's why it's False."
 
 print "how about some more"
 
+# determine if it's greater
 print "is it greater?", 5 > -2
 print "is it greater or equal?", 5 >= -2
 print "is it less or equal?", 5 <= -2
